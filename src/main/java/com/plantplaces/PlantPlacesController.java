@@ -3,6 +3,7 @@ package com.plantplaces;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+//Test
 @Controller
 public class PlantPlacesController {
 
