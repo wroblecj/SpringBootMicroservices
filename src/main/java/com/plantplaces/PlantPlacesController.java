@@ -21,7 +21,7 @@ public class PlantPlacesController {
 	/**
 	 * 
 	 * Handle the / endpoint
-	 *@return
+	 *@return something
 	 */
 	@RequestMapping("/")
 	public String index() {
